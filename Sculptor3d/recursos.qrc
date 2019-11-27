@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/icones">
+        <file alias="putBoxIcon">recursos/putBox.png</file>
+        <file alias="putEllipsoidIcon">recursos/putEllipse.png</file>
+        <file alias="putSphereIcon">recursos/putSphere.png</file>
+        <file>recursos/cutBox.png</file>
+        <file>recursos/cutSphere.png</file>
+        <file>recursos/cutEllipsoid.png</file>
+        <file>recursos/pasta.png</file>
+        <file>recursos/salvar.png</file>
+    </qresource>
+</RCC>
